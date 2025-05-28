@@ -10,8 +10,8 @@ import io.cucumber.junit.CucumberOptions;
 				features = "src/test/resources/features", 
 				glue = { "stepdefinitions", "hooks" }, 
 				dryRun = false,
-//				tags = "@Sanity",
-				plugin={"pretty","html:target/CucumberReports/CucumberReport.html"})
+				tags = "@Sanity or @Regression",
+				plugin={"pretty","html:CucumberReports/CucumberReport.html"})
 public class TestRunner {
 
 }

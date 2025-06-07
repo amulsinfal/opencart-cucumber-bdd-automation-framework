@@ -230,7 +230,7 @@ This will execute all feature files configured in the 'TestRunner' and generate 
 - You can customize browser and environment settings in the [config.properties](https://github.com/amulsinfal/opencart-cucumber-bdd-automation-framework/blob/master/src/test/resources/configurations/config.properties) file via the 'ConfigReader' utility before running tests.
 
 ## 🎥 Test Execution Demo
-Test execution video file path: https://github.com/amulsinfal/opencart-cucumber-bdd-automation-framework/blob/master/media/opencart-bdd-framework-execution-video.mp4
+Test execution video file path: [opencart-bdd-framework-execution-video](https://github.com/itsamuls/opencart-cucumber-bdd-automation-framework/blob/master/media/opencart-bdd-framework-execution-video.mp4)
 
 
 
